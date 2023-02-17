@@ -5,7 +5,7 @@ function Interests() {
     <div className="interests" >
       <h2 id="interests--title" >Interests</h2>
       <p id="interests--para" >
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        Food expert. Reader. Internet fanatic. Bacon buff. Travel geek. Gaming nerd. Coffee fanatic.
       </p>
     </div>
   )
